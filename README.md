@@ -1,5 +1,4 @@
-# SQL-Study-Group-Hands-on-1
-# SQL Hands-On Practice #1
+## sql-retail-sales-analysis
 
 ## Overview
 
@@ -28,7 +27,7 @@ By completing this exercise, learners will practice and improve their ability to
 
 ## Scenario
 
-You have just been given access to an **employees database** in your organization.
+You have just been given access to an **employees database** in your organisation.
 
 Your task is to write SQL queries that help answer key business questions about employees, departments, salaries, and employment status.
 
